@@ -1,0 +1,12 @@
+1.Bill generation according to delivery address->Done
+2.Invoice will be generated according to the Location and Weight.
+3.Create one function for the shipment Weight .
+4.Shipments for the Specific Locations within the Punjab.
+5.if user chooses another Location the extra charges will implemented automatically.
+8.Seperate Adming Pannel so Admins can enter the user id and Password and they can see all types of
+packages Predefined and Custom packages.
+9.Customer can Able to see their Invoice with the help of tracking Id generated at that time
+10.User can able to track their Package by Tracking id.
+
+write KG
+add Destinaion in invoice 
