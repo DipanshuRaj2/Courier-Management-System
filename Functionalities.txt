@@ -7,6 +7,6 @@
 packages Predefined and Custom packages.
 9.Customer can Able to see their Invoice with the help of tracking Id generated at that time
 10.User can able to track their Package by Tracking id.
-
+//console based application
 write KG
 add Destinaion in invoice 
